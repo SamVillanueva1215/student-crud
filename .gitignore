@@ -1,0 +1,21 @@
+# Node / Vite
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Maven / Java
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE & Editors
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Logs & OS
+*.log
+.DS_Store
+Thumbs.db
